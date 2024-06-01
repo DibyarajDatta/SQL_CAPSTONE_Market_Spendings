@@ -1,0 +1,1 @@
+# SQL_CAPSTONE_Market_Spendings
